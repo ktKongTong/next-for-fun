@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paimon Idle Animation
+* source:	https://sketchfab.com/3d-models/paimon-idle-animation-990c9d459212467288b64e9b19c9c9b5
+* author:	helmitakasu (https://sketchfab.com/helmitachi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paimon Idle Animation" (https://sketchfab.com/3d-models/paimon-idle-animation-990c9d459212467288b64e9b19c9c9b5) by helmitakasu (https://sketchfab.com/helmitachi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
