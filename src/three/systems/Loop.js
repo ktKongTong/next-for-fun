@@ -14,6 +14,8 @@ class Loop {
     this.renderer.setAnimationLoop(() => {
       // tell every animated object to tick forward one frame
       this.tick();
+      // console.log("tick")
+      // console.log(this.scene)
 
       // render a frame
       this.renderer.render(this.scene, this.camera);

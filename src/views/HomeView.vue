@@ -8,11 +8,6 @@ const toAnothoerView = ()=>{
 </script>
 
 <template>
-    <!-- <TheWelcome /> -->
-    <div>
-
-    hello2??
-    </div>
 <div @click="toAnothoerView">
     hello2??
 </div>
